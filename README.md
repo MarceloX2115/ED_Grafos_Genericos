@@ -65,5 +65,8 @@ python src/main.py
 - B -> ['A', 'C']
 - C -> ['A', 'B']
 
+## Link do Vídeo
+(https://youtu.be/XZB94kWNOTc?si=MICkh11C2QctF8Ys)
+
 ## 👤 Autor
 Marcello Sampaio
